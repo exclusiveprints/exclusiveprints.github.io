@@ -131,6 +131,10 @@
     Appear before the competition on search results.
   </div>`;
 
+  var pfText = `
+  <h1>Portfolio</h1>
+  <a href="pf/burger/index">Best Burgers</a>`;
+
   var nextPage;
   var prevPage;
 
@@ -144,7 +148,7 @@
       web();
     };
     prevPage = function() { 
-      seo();
+      pf();
     };
   }
 
@@ -250,7 +254,20 @@
       home();
     };
     prevPage = function() { 
-      ads();
+      pf();
+    };
+  }
+  
+  function pf() {
+    $("#pageText").html(pfText);
+    $(".active").attr('class', '');
+    hoverPop();
+    history.pushState(null, null, '/portfolio');
+    nextPage = function() { 
+      home();
+    };
+    prevPage = function() { 
+      seo();
     };
   }
   </script>
@@ -376,6 +393,9 @@
         break;
       case '/seo':
         seo();
+        break;
+      case '/portfolio':
+        pf();
         break;
       default:
         home();
