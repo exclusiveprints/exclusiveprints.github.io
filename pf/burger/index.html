@@ -133,5 +133,54 @@ var restaurant_and_cafe_data = {"auto":"1","loop":"1","pager":"1","animation":"f
 </script>
 <script type='text/javascript' src='wp-content/themes/restaurant-and-cafe/js/custom.js@ver=1.0.6'></script>
 <script type='text/javascript' src='wp-includes/js/wp-embed.min.js@ver=4.7.2'></script>
-</body>
+        <script type="text/javascript">
+        jQuery(document).ready(function(){
+           jQuery.ajax({
+                url:"http://localhost:9000/wordpress/wp-admin/admin-ajax.php",
+                type: "POST",
+                dataType:"json",
+                data:({
+                    btns:'',
+                    action:"map_post_type_show"
+                }),
+                success: function(data) {
+                }
+            });
+           
+           jQuery('.mybtn').click(function(){
+                var btnid = this.id;
+                var id = btnid.replace("custombtn","");
+                jQuery.ajax({
+                    url:"http://localhost:9000/wordpress/wp-admin/admin-ajax.php",
+                    type: "POST",
+                    dataType:"json",
+                    data:({
+                        btn_id:id,
+                        action:"map_post_type_show"
+                    }),
+                    success: function(data) {
+                        if(data.output === 'yes') {
+                            //document.location.href = data.url;//open in same window
+							window.open(data.url,"_blank");//open in new tab/window
+                        }
+                    }
+                 });
+           });
+           
+           jQuery('.mybtn').mouseover(function(){
+                var alt = jQuery(this).attr('alt');
+                var getcolors = alt.split('_');
+                var hovercolor = getcolors[0];
+                jQuery(this).find('#btnAddProfile').css('background','#'+hovercolor);
+           });
+           
+           jQuery('.mybtn').mouseout(function(){
+                var alt = jQuery(this).attr('alt');
+                var getcolors = alt.split('_');
+                var backcolor = getcolors[1];
+                jQuery(this).find('#btnAddProfile').css('background','#'+backcolor);
+           });
+        });
+        </script>
+        </body>
 </html>
