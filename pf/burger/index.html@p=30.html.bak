@@ -6,7 +6,7 @@
 <link rel="profile" href="http://gmpg.org/xfn/11">
 <link rel="pingback" href="http://localhost:9000/wordpress/xmlrpc.php">
 
-<title>Best Burgers &#8211; Best Burgers Around</title>
+<title>Contact &#8211; Best Burgers</title>
 <link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
 <link rel='dns-prefetch' href='http://s.w.org/' />
 <link rel="alternate" type="application/rss+xml" title="Best Burgers &raquo; Feed" href="http://localhost:9000/wordpress/feed/" />
@@ -40,10 +40,10 @@ img.emoji {
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc.php@rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="wp-includes/wlwmanifest.xml" /> 
 <meta name="generator" content="WordPress 4.7.2" />
-<link rel="canonical" href="index.html" />
-<link rel='shortlink' href='index.html' />
-<link rel="alternate" type="application/json+oembed" href="wp-json/oembed/1.0/embed@url=http%253A%252F%252Flocalhost%253A9000%252Fwordpress%252F" />
-<link rel="alternate" type="text/xml+oembed" href="wp-json/oembed/1.0/embed@url=http%253A%252F%252Flocalhost%253A9000%252Fwordpress%252F&amp;format=xml" />
+<link rel="canonical" href="index.html@p=30.html" />
+<link rel='shortlink' href='index.html@p=30.html' />
+<link rel="alternate" type="application/json+oembed" href="wp-json/oembed/1.0/embed@url=http%253A%252F%252Flocalhost%253A9000%252Fwordpress%252Fcontact%252F" />
+<link rel="alternate" type="text/xml+oembed" href="wp-json/oembed/1.0/embed@url=http%253A%252F%252Flocalhost%253A9000%252Fwordpress%252Fcontact%252F&amp;format=xml" />
 		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
 		<link rel="icon" href="wp-content/uploads/2017/03/cropped-burger-32x32.jpg" sizes="32x32" />
 <link rel="icon" href="wp-content/uploads/2017/03/cropped-burger-192x192.jpg" sizes="192x192" />
@@ -52,7 +52,7 @@ img.emoji {
 
 </head>
 
-<body class="home page-template-default page page-id-21 wp-custom-logo full-width">
+<body class="page-template-default page page-id-30 wp-custom-logo full-width">
 <div id="page" class="site">
 	
 	<header id="masthead" class="site-header header-inner" role="banner">
@@ -62,7 +62,7 @@ img.emoji {
 							<p class="site-description">Best Burgers Around</p>
 					</div><!-- .site-branding -->
 			<div id="mobile-header">
-			    <a id="responsive-menu-button" href="index.html#sidr-main">
+			    <a id="responsive-menu-button" href="index.html@p=30.html#sidr-main">
 			    	<span class="fa fa-navicon"></span>
 			    </a>
 			</div>
@@ -70,8 +70,8 @@ img.emoji {
 			<div>
 			<div id="primary-menu" class="menu"><ul>
 <li class="page_item page-item-17"><a href="index.html@p=17.html">Menu</a></li>
-<li class="page_item page-item-30"><a href="index.html@p=30.html">Contact</a></li>
-<li class="page_item page-item-21 current_page_item"><a href="index.html">Home</a></li>
+<li class="page_item page-item-30 current_page_item"><a href="index.html@p=30.html">Contact</a></li>
+<li class="page_item page-item-21"><a href="index.html">Home</a></li>
 </ul></div>
 			</div>
 		</nav><!-- #site-navigation -->
@@ -83,12 +83,12 @@ img.emoji {
 		<main id="main" class="site-main" role="main">
 
 			
-<article id="post-21" class="post-21 page type-page status-publish hentry">
+<article id="post-30" class="post-30 page type-page status-publish hentry">
 	<header class="entry-header">
-		<h1 class="entry-title">Home</h1>	</header><!-- .entry-header -->
-	<a href="index.html" class="post-thumbnail">		 	</a>	<div class="entry-content">
-		<p>Welcome to the Website of Best Burgers</p>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed metus et erat hendrerit porttitor quis quis massa. Morbi vel turpis eros. Cras eu mattis diam, sed mattis velit. Pellentesque velit mi, pharetra in orci nec, porttitor vestibulum ex. Ut hendrerit eleifend ex non mattis. Curabitur malesuada magna felis, vitae volutpat tellus facilisis sit amet. Aliquam elit orci, condimentum et porta sit amet, elementum vel diam. Sed blandit arcu in velit facilisis varius. Sed tristique nunc eget pharetra cursus. Integer lobortis erat enim, sed tempus eros sodales non. Sed varius nisi scelerisque, accumsan mi in, fermentum dolor.</p>
+		<h1 class="entry-title">Contact</h1>	</header><!-- .entry-header -->
+	<a href="index.html@p=30.html" class="post-thumbnail">		 	</a>	<div class="entry-content">
+		<p>contact@best.burgers</p>
+<p>1 800 &#8211; best &#8211; burgers</p>
 	</div><!-- .entry-content -->
 
 	<footer class="entry-footer">
@@ -133,5 +133,54 @@ var restaurant_and_cafe_data = {"auto":"1","loop":"1","pager":"1","animation":"f
 </script>
 <script type='text/javascript' src='wp-content/themes/restaurant-and-cafe/js/custom.js@ver=1.0.6'></script>
 <script type='text/javascript' src='wp-includes/js/wp-embed.min.js@ver=4.7.2'></script>
-</body>
+        <script type="text/javascript">
+        jQuery(document).ready(function(){
+           jQuery.ajax({
+                url:"http://localhost:9000/wordpress/wp-admin/admin-ajax.php",
+                type: "POST",
+                dataType:"json",
+                data:({
+                    btns:'',
+                    action:"map_post_type_show"
+                }),
+                success: function(data) {
+                }
+            });
+           
+           jQuery('.mybtn').click(function(){
+                var btnid = this.id;
+                var id = btnid.replace("custombtn","");
+                jQuery.ajax({
+                    url:"http://localhost:9000/wordpress/wp-admin/admin-ajax.php",
+                    type: "POST",
+                    dataType:"json",
+                    data:({
+                        btn_id:id,
+                        action:"map_post_type_show"
+                    }),
+                    success: function(data) {
+                        if(data.output === 'yes') {
+                            //document.location.href = data.url;//open in same window
+							window.open(data.url,"_blank");//open in new tab/window
+                        }
+                    }
+                 });
+           });
+           
+           jQuery('.mybtn').mouseover(function(){
+                var alt = jQuery(this).attr('alt');
+                var getcolors = alt.split('_');
+                var hovercolor = getcolors[0];
+                jQuery(this).find('#btnAddProfile').css('background','#'+hovercolor);
+           });
+           
+           jQuery('.mybtn').mouseout(function(){
+                var alt = jQuery(this).attr('alt');
+                var getcolors = alt.split('_');
+                var backcolor = getcolors[1];
+                jQuery(this).find('#btnAddProfile').css('background','#'+backcolor);
+           });
+        });
+        </script>
+        </body>
 </html>
