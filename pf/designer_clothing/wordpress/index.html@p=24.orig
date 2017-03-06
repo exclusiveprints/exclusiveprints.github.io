@@ -1,17 +1,17 @@
 <!DOCTYPE html>
-<html lang="en-US" itemscope="itemscope" itemtype="http://schema.org/WebPage">
+<html lang="en-US" itemscope="itemscope" itemtype="https://schema.org/WebPage">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<link rel="profile" href="http://gmpg.org/xfn/11">
-<link rel="pingback" href="http://localhost:8888/wordpress/xmlrpc.php">
+<link rel="profile" href="https://gmpg.org/xfn/11">
+<link rel="pingback" href="https://localhost:8888/wordpress/xmlrpc.php">
 
 <title>About &#8211; Designer Clothing</title>
 <link rel='dns-prefetch' href='//s.w.org' />
-<link rel="alternate" type="application/rss+xml" title="Designer Clothing &raquo; Feed" href="http://localhost:8888/wordpress/feed/" />
-<link rel="alternate" type="application/rss+xml" title="Designer Clothing &raquo; Comments Feed" href="http://localhost:8888/wordpress/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Designer Clothing &raquo; Feed" href="https://localhost:8888/wordpress/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Designer Clothing &raquo; Comments Feed" href="https://localhost:8888/wordpress/comments/feed/" />
 		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/localhost:8888\/wordpress\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.2"}};
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/localhost:8888\/wordpress\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.2"}};
 			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
 		</script>
 		<style type="text/css">
@@ -28,23 +28,23 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel='stylesheet' id='bootstrap-css'  href='http://localhost:8888/wordpress/wp-content/themes/shop-isle/assets/bootstrap/css/bootstrap.min.css?ver=20120206' type='text/css' media='all' />
-<link rel='stylesheet' id='magnific-popup-css'  href='http://localhost:8888/wordpress/wp-content/themes/shop-isle/assets/css/vendor/magnific-popup.css?ver=20120206' type='text/css' media='all' />
-<link rel='stylesheet' id='flexslider-css'  href='http://localhost:8888/wordpress/wp-content/themes/shop-isle/assets/css/vendor/flexslider.css?ver=20120206' type='text/css' media='all' />
-<link rel='stylesheet' id='owl-carousel-css'  href='http://localhost:8888/wordpress/wp-content/themes/shop-isle/assets/css/vendor/owl.carousel.css?ver=20120206' type='text/css' media='all' />
-<link rel='stylesheet' id='shop-isle-animate-css'  href='http://localhost:8888/wordpress/wp-content/themes/shop-isle/assets/css/vendor/animate.css?ver=20120206' type='text/css' media='all' />
-<link rel='stylesheet' id='shop-isle-main-style-css'  href='http://localhost:8888/wordpress/wp-content/themes/shop-isle/assets/css/style.css?ver=20120207' type='text/css' media='all' />
-<link rel='stylesheet' id='shop-isle-style-css'  href='http://localhost:8888/wordpress/wp-content/themes/shop-isle/style.css?ver=1.1.14' type='text/css' media='all' />
-<script type='text/javascript' src='http://localhost:8888/wordpress/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
-<script type='text/javascript' src='http://localhost:8888/wordpress/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
-<link rel='https://api.w.org/' href='http://localhost:8888/wordpress/wp-json/' />
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://localhost:8888/wordpress/xmlrpc.php?rsd" />
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://localhost:8888/wordpress/wp-includes/wlwmanifest.xml" /> 
+<link rel='stylesheet' id='bootstrap-css'  href='https://localhost:8888/wordpress/wp-content/themes/shop-isle/assets/bootstrap/css/bootstrap.min.css?ver=20120206' type='text/css' media='all' />
+<link rel='stylesheet' id='magnific-popup-css'  href='https://localhost:8888/wordpress/wp-content/themes/shop-isle/assets/css/vendor/magnific-popup.css?ver=20120206' type='text/css' media='all' />
+<link rel='stylesheet' id='flexslider-css'  href='https://localhost:8888/wordpress/wp-content/themes/shop-isle/assets/css/vendor/flexslider.css?ver=20120206' type='text/css' media='all' />
+<link rel='stylesheet' id='owl-carousel-css'  href='https://localhost:8888/wordpress/wp-content/themes/shop-isle/assets/css/vendor/owl.carousel.css?ver=20120206' type='text/css' media='all' />
+<link rel='stylesheet' id='shop-isle-animate-css'  href='https://localhost:8888/wordpress/wp-content/themes/shop-isle/assets/css/vendor/animate.css?ver=20120206' type='text/css' media='all' />
+<link rel='stylesheet' id='shop-isle-main-style-css'  href='https://localhost:8888/wordpress/wp-content/themes/shop-isle/assets/css/style.css?ver=20120207' type='text/css' media='all' />
+<link rel='stylesheet' id='shop-isle-style-css'  href='https://localhost:8888/wordpress/wp-content/themes/shop-isle/style.css?ver=1.1.14' type='text/css' media='all' />
+<script type='text/javascript' src='https://localhost:8888/wordpress/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://localhost:8888/wordpress/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='https://localhost:8888/wordpress/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://localhost:8888/wordpress/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://localhost:8888/wordpress/wp-includes/wlwmanifest.xml" /> 
 <meta name="generator" content="WordPress 4.7.2" />
-<link rel="canonical" href="http://localhost:8888/wordpress/about/" />
-<link rel='shortlink' href='http://localhost:8888/wordpress/?p=24' />
-<link rel="alternate" type="application/json+oembed" href="http://localhost:8888/wordpress/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%3A8888%2Fwordpress%2Fabout%2F" />
-<link rel="alternate" type="text/xml+oembed" href="http://localhost:8888/wordpress/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%3A8888%2Fwordpress%2Fabout%2F&#038;format=xml" />
+<link rel="canonical" href="https://localhost:8888/wordpress/about/" />
+<link rel='shortlink' href='https://localhost:8888/wordpress/?p=24' />
+<link rel="alternate" type="application/json+oembed" href="https://localhost:8888/wordpress/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%3A8888%2Fwordpress%2Fabout%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://localhost:8888/wordpress/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%3A8888%2Fwordpress%2Fabout%2F&#038;format=xml" />
 <style id="shop_isle_customizr_pallete" type="text/css">.module.module-video { padding: 130px 0px; }</style>		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
 		</head>
 
@@ -60,7 +60,7 @@ img.emoji {
 				<div class="header-container">
 
 					<div class="navbar-header">
-						<div class="shop_isle_header_title"><div class="shop-isle-header-title-inner"><h1 class="site-title"><a href="http://localhost:8888/wordpress/" title="Designer Clothing" rel="home">Designer Clothing</a></h1><h2 class="site-description"><a href="http://localhost:8888/wordpress/" title="Designer Clothing" rel="home"></a></h2></div></div>
+						<div class="shop_isle_header_title"><div class="shop-isle-header-title-inner"><h1 class="site-title"><a href="https://localhost:8888/wordpress/" title="Designer Clothing" rel="home">Designer Clothing</a></h1><h2 class="site-description"><a href="https://localhost:8888/wordpress/" title="Designer Clothing" rel="home"></a></h2></div></div>
 						<div type="button" class="navbar-toggle" data-toggle="collapse" data-target="#custom-collapse">
 							<span class="sr-only">Toggle navigation</span>
 							<span class="icon-bar"></span>
@@ -73,8 +73,8 @@ img.emoji {
 						<div class="collapse navbar-collapse" id="custom-collapse">
 
 							<div class="nav navbar-nav navbar-right"><ul>
-<li ><a href="http://localhost:8888/wordpress/">Home</a></li><li class="page_item page-item-24 current_page_item"><a href="http://localhost:8888/wordpress/about/">About</a></li>
-<li class="page_item page-item-7"><a href="http://localhost:8888/wordpress/contact/">Contact</a></li>
+<li ><a href="https://localhost:8888/wordpress/">Home</a></li><li class="page_item page-item-24 current_page_item"><a href="https://localhost:8888/wordpress/about/">About</a></li>
+<li class="page_item page-item-7"><a href="https://localhost:8888/wordpress/contact/">Contact</a></li>
 </ul></div>
 
 						</div>
@@ -92,7 +92,7 @@ img.emoji {
 	<div class="main">
 
 		<!-- Header section start -->
-		<section class="page-header-module module bg-dark" data-background="http://localhost:8888/wordpress/wp-content/uploads/2017/03/cropped-Hot-girl-1.png">			<div class="container">
+		<section class="page-header-module module bg-dark" data-background="https://localhost:8888/wordpress/wp-content/uploads/2017/03/cropped-Hot-girl-1.png">			<div class="container">
 
 				<div class="row">
 
@@ -139,7 +139,7 @@ img.emoji {
 
 				<div class="row">
 
-					<div class="col-sm-6"><p class="shop-isle-poweredby-box"><a class="shop-isle-poweredby" href="http://themeisle.com/themes/shop-isle/" rel="nofollow">ShopIsle </a>powered by<a class="shop-isle-poweredby" href="http://wordpress.org/" rel="nofollow"> WordPress</a></p></div><div class="col-sm-6"><div class="footer-social-links"><a href="#"><span class="social_facebook"></span></a><a href="#"><span class="social_twitter"></span></a><a href="#"><span class="social_dribbble"></span></a><a href="#"><span class="social_skype"></span></a></div></div>				</div><!-- .row -->
+					<div class="col-sm-6"><p class="shop-isle-poweredby-box"><a class="shop-isle-poweredby" href="https://themeisle.com/themes/shop-isle/" rel="nofollow">ShopIsle </a>powered by<a class="shop-isle-poweredby" href="https://wordpress.org/" rel="nofollow"> WordPress</a></p></div><div class="col-sm-6"><div class="footer-social-links"><a href="#"><span class="social_facebook"></span></a><a href="#"><span class="social_twitter"></span></a><a href="#"><span class="social_dribbble"></span></a><a href="#"><span class="social_skype"></span></a></div></div>				</div><!-- .row -->
 
 			</div>
 		</footer>
@@ -154,18 +154,18 @@ img.emoji {
 	</div>
 
 	
-<script type='text/javascript' src='http://localhost:8888/wordpress/wp-content/themes/shop-isle/assets/bootstrap/js/bootstrap.min.js?ver=20120206'></script>
-<script type='text/javascript' src='http://localhost:8888/wordpress/wp-content/themes/shop-isle/assets/js/vendor/jquery.mb.YTPlayer.min.js?ver=20120206'></script>
-<script type='text/javascript' src='http://localhost:8888/wordpress/wp-content/themes/shop-isle/assets/js/vendor/jqBootstrapValidation.js?ver=20120206'></script>
-<script type='text/javascript' src='http://localhost:8888/wordpress/wp-content/themes/shop-isle/assets/js/vendor/jquery.flexslider-min.js?ver=20120206'></script>
-<script type='text/javascript' src='http://localhost:8888/wordpress/wp-content/themes/shop-isle/assets/js/vendor/jquery.magnific-popup.min.js?ver=20120206'></script>
-<script type='text/javascript' src='http://localhost:8888/wordpress/wp-content/themes/shop-isle/assets/js/vendor/jquery.fitvids.js?ver=20120206'></script>
-<script type='text/javascript' src='http://localhost:8888/wordpress/wp-content/themes/shop-isle/assets/js/vendor/smoothscroll.js?ver=20120206'></script>
-<script type='text/javascript' src='http://localhost:8888/wordpress/wp-content/themes/shop-isle/assets/js/vendor/owl.carousel.min.js?ver=20120206'></script>
-<script type='text/javascript' src='http://localhost:8888/wordpress/wp-content/themes/shop-isle/assets/js/custom.js?ver=20120206'></script>
-<script type='text/javascript' src='http://localhost:8888/wordpress/wp-content/themes/shop-isle/js/navigation.min.js?ver=20120207'></script>
-<script type='text/javascript' src='http://localhost:8888/wordpress/wp-content/themes/shop-isle/js/skip-link-focus-fix.min.js?ver=20130115'></script>
-<script type='text/javascript' src='http://localhost:8888/wordpress/wp-includes/js/wp-embed.min.js?ver=4.7.2'></script>
+<script type='text/javascript' src='https://localhost:8888/wordpress/wp-content/themes/shop-isle/assets/bootstrap/js/bootstrap.min.js?ver=20120206'></script>
+<script type='text/javascript' src='https://localhost:8888/wordpress/wp-content/themes/shop-isle/assets/js/vendor/jquery.mb.YTPlayer.min.js?ver=20120206'></script>
+<script type='text/javascript' src='https://localhost:8888/wordpress/wp-content/themes/shop-isle/assets/js/vendor/jqBootstrapValidation.js?ver=20120206'></script>
+<script type='text/javascript' src='https://localhost:8888/wordpress/wp-content/themes/shop-isle/assets/js/vendor/jquery.flexslider-min.js?ver=20120206'></script>
+<script type='text/javascript' src='https://localhost:8888/wordpress/wp-content/themes/shop-isle/assets/js/vendor/jquery.magnific-popup.min.js?ver=20120206'></script>
+<script type='text/javascript' src='https://localhost:8888/wordpress/wp-content/themes/shop-isle/assets/js/vendor/jquery.fitvids.js?ver=20120206'></script>
+<script type='text/javascript' src='https://localhost:8888/wordpress/wp-content/themes/shop-isle/assets/js/vendor/smoothscroll.js?ver=20120206'></script>
+<script type='text/javascript' src='https://localhost:8888/wordpress/wp-content/themes/shop-isle/assets/js/vendor/owl.carousel.min.js?ver=20120206'></script>
+<script type='text/javascript' src='https://localhost:8888/wordpress/wp-content/themes/shop-isle/assets/js/custom.js?ver=20120206'></script>
+<script type='text/javascript' src='https://localhost:8888/wordpress/wp-content/themes/shop-isle/js/navigation.min.js?ver=20120207'></script>
+<script type='text/javascript' src='https://localhost:8888/wordpress/wp-content/themes/shop-isle/js/skip-link-focus-fix.min.js?ver=20130115'></script>
+<script type='text/javascript' src='https://localhost:8888/wordpress/wp-includes/js/wp-embed.min.js?ver=4.7.2'></script>
 <style id="shop_isle_footer_css" type="text/css">
 		.wr-megamenu-container.bg-tr {
 			background: transparent !important;
